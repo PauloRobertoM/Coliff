@@ -128,11 +128,21 @@ hr{
 /*Centro*/
 .my-logo-end {
 	font-family: Segoe Script;
-	margin-top: 55px;
+	margin-top: 70px;
 	position: absolute;
 	z-index: 2;
 	color: #ddd;
-	margin-left: 100px;
+	left: 33%;
+}
+
+.my-logo {
+	margin-right: 30px;
+}
+
+.my-endereco {
+	text-align: center;
+	margin-top: 60px;
+	margin-left: 70px;
 }
 
 /*Direita*/
@@ -142,5 +152,29 @@ hr{
 	position: absolute;
 	z-index: 2;
 	color: #ddd;
+	right: 9%;
+}
 
+.my-contato-form form input{
+	padding: 5px;
+	background-color: #aeb4bf;
+	font-family: Segoe Script;
+}
+
+.my-contato-form ::-webkit-input-placeholder {
+color: #eee;
+}
+.my-contato-form :-moz-placeholder {
+color: #eee;
+}
+.my-contato-form ::-moz-placeholder {
+color: #eee;
+}
+.my-contato-form :-ms-input-placeholder { 
+color: #eee;
+}
+
+.my-contato-form form input.botao{
+	width: 100px;
+	color: #eee;
 }

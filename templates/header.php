@@ -11,6 +11,18 @@
 		<link rel="stylesheet" href="css/my-style.css" />	    
 	</head>
 	<body>
+		
+
+		<!-- 
+		*******************************************************************************
+
+		PRECISO SABER ALGUMA FORMA DE FAZER AS BORDAS BRANCAS E DUPLAS DOS BACKS AZUL.
+		SABER COM FAZ O SUBLINHADO PEQUENO E VERMELHO DOS LINKS
+
+		*******************************************************************************
+		 -->
+
+
 		<div class="row">
 			<div class="container">
 				<header>

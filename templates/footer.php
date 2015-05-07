@@ -32,18 +32,15 @@
 							<p>Receba nossas novidades</p>							
 							<div class="my-contato-form">
 								<form action="#" method="post">
-									<label for="nome">Nome: </label>
-									<input type="text" name="nome" id="nome" />
+									<input type="text" name="nome" id="nome" placeholder="Nome"/>
 									
-									<label for="email">E-mail: </label>
-									<input type="text" name="email" id="email" />
+									<input type="text" name="email" id="email" placeholder="Email"/>
 
 									<input type="submit" name="enviar" value="Enviar" class="botao" onclick="alert('Dados enviados com sucesso!')" />
 								</form>
 							</div>
 						</div>
 					</div>
-
 				</div>
 			</div>
 
