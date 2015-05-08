@@ -26,11 +26,11 @@
 						</div>
 					</div>
 					
-					<div class="span4 my-contato">
+					<div class="span4 my-for">
 						<div class="row">
 							<h3>Newsletter</h3>
 							<p>Receba nossas novidades</p>							
-							<div class="my-contato-form">
+							<div class="my-form">
 								<form action="#" method="post">
 									<input type="text" name="nome" id="nome" placeholder="Nome"/>
 									
